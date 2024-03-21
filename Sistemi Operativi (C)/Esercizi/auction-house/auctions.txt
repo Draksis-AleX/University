@@ -1,0 +1,3 @@
+Cotta di Mithril,100,500
+Palantír,700,1000
+Anelli degli Uomini,50,600
