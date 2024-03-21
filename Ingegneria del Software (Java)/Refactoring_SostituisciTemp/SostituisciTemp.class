@@ -1,0 +1,23 @@
+
+public class SostituisciTemp{
+
+    private double quantita, prezzo;
+
+    public double getPrezzo1() {
+        double sconto;
+        if (prezzoBase() > 1000) sconto = 0.95;
+        else sconto = 0.98;
+        return prezzoBase() * sconto;
+    }
+
+    //diventa:
+
+    public double prezzoBase() {
+        return quantita * prezzo;
+    }
+
+}
+
+
+
+
