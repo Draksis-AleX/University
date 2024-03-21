@@ -1,0 +1,3 @@
+(348 B) (185 R) (8 B) (NIL) (162 R) (NIL) (NIL) (189 B) (NIL) (NIL) (673 R) (588 B) (NIL) (NIL) (954 B) (829 R) (NIL) (NIL) (956 R) (NIL) (NIL) 3
+(299 B) (165 R) (53 B) (44 R) (NIL) (NIL) (NIL) (278 B) (NIL) (NIL) (763 R) (479 B) (360 R) (NIL) (NIL) (745 R) (NIL) (NIL) (910 B) (NIL) (NIL) 3
+(556 B) (249 B) (170 R) (53 B) (NIL) (128 R) (NIL) (NIL) (248 B) (NIL) (NIL) (251 B) (NIL) (497 R) (NIL) (NIL) (820 B) (647 B) (NIL) (NIL) (866 B) (NIL) (NIL) 4
